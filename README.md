@@ -25,7 +25,7 @@ A React-based responsive website dedicated to FC Barcelona, showcasing players a
 ## How to Run  
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/your-username/barcelona-website.git
+   git clone https://github.com/vaijaaaaa/barcelona-website.git
    cd barcelona-website
 2.Install dependencies:
   ---------------------
